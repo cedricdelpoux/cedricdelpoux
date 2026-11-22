@@ -4,6 +4,17 @@
 
 As a front-end web developer, bringing ideas to life is what excites me on a daily basis. Thinking algorithms and solving problems are why I choose this job. Code is beautiful. Possibilities are endless. From the white canvas to the final design, it makes me feel like an artist. What I enjoy most is to be able to be creative every day.
 
+## Support my open source work
+
+My packages are free and maintained in my free time. If they are useful to you, you can support them:
+
+<p align="center">
+  <a href="https://thanks.dev/u/gh/cedricdelpoux"><img src="https://img.shields.io/badge/thanks.dev-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyMCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNiIgZD0iTTkgMkM2IDIgNS41IDMgNS41IDUuNVY4QzUuNSA5LjMgNC41IDEwIDIgMTBDNC41IDEwIDUuNSAxMC43IDUuNSAxMlYxNC41QzUuNSAxNyA2IDE4IDkgMThNMTUgMkMxOCAyIDE4LjUgMyAxOC41IDUuNVY4QzE4LjUgOS4zIDE5LjUgMTAgMjIgMTBDMTkuNSAxMCAxOC41IDEwLjcgMTguNSAxMlYxNC41QzE4LjUgMTcgMTggMTggMTUgMTgiLz48L3N2Zz4%3D" alt="thanks.dev"></a>
+  <a href="https://github.com/sponsors/cedricdelpoux"><img src="https://img.shields.io/badge/GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
+  <a href="https://ko-fi.com/cedricdelpoux"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"></a>
+  <a href="https://paypal.me/cedricdelpoux"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+</p>
+
 ## Website
 
 - 🇫🇷 [cedricdelpoux.fr](https://cedricdelpoux.fr)
@@ -71,11 +82,11 @@ As a front-end web developer, bringing ideas to life is what excites me on a dai
 [cd-repo]: https://github.com/cedricdelpoux/cedricdelpoux.fr
 [cd-stars]: https://img.shields.io/github/stars/cedricdelpoux/cedricdelpoux.fr?style=flat-square&labelColor=343b41&label=Stars
 
-<!-- gatsby-source-google-docs -->
+<!-- google-docs-sync -->
 
-[gsgd-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-source-google-docs&color=000605&logo=github&logoColor=white&labelColor=000605
-[gsgd-repo]: https://github.com/cedricdelpoux/gatsby-source-google-docs
-[gsgd-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-source-google-docs?style=flat-square&labelColor=343b41&label=Stars
+[gsgd-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=google-docs-sync&color=000605&logo=github&logoColor=white&labelColor=000605
+[gsgd-repo]: https://github.com/cedricdelpoux/google-docs-sync
+[gsgd-stars]: https://img.shields.io/github/stars/cedricdelpoux/google-docs-sync?style=flat-square&labelColor=343b41&label=Stars
 [gsgd-dl]: https://img.shields.io/npm/dt/gatsby-source-google-docs.svg?style=flat-square&label=Downloads
 
 <!-- gatsby-source-strava -->
