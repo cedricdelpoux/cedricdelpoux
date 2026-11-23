@@ -40,32 +40,29 @@ My packages are free and maintained in my free time. If they are useful to you, 
 
 ## Open-source projects
 
-| Repository                   | Stars           | Downloads    |
-| ---------------------------- | --------------- | ------------ |
-| [![][cd-badge]][cd-repo]     | ![][cd-stars]   |              |
-|                              |                 |              |
-| [![][gsgd-badge]][gsgd-repo] | ![][gsgd-stars] | ![][gsgd-dl] |
-| [![][gss-badge]][gss-repo]   | ![][gss-stars]  | ![][gss-dl]  |
-| [![][gsy-badge]][gsy-repo]   | ![][gsy-stars]  | ![][gsy-dl]  |
-| [![][gsgp-badge]][gsgp-repo] | ![][gsgp-stars] | ![][gsgp-dl] |
-| [![][gsgm-badge]][gsgm-repo] | ![][gsgm-stars] | ![][gsgm-dl] |
-| [![][grg-badge]][grg-repo]   | ![][grg-stars]  | ![][grg-dl]  |
-| [![][grr-badge]][grr-repo]   | ![][grr-stars]  | ![][grr-dl]  |
-| [![][grs-badge]][grs-repo]   | ![][grs-stars]  | ![][grs-dl]  |
-| [![][gry-badge]][gry-repo]   | ![][gry-stars]  | ![][gry-dl]  |
-| [![][grig-badge]][grig-repo] | ![][grig-stars] | ![][grig-dl] |
-| [![][grui-badge]][grui-repo] | ![][grui-stars] | ![][grui-dl] |
-|                              |                 |              |
-| [![][rrm-badge]][rrm-repo]   | ![][rrm-stars]  | ![][rrm-dl]  |
-| [![][rgps-badge]][rgps-repo] | ![][rgps-stars] | ![][rgps-dl] |
-| [![][rsp-badge]][rsp-repo]   | ![][rsp-stars]  | ![][rsp-dl]  |
-| [![][rgml-badge]][rgml-repo] | ![][rgml-stars] | ![][rgml-dl] |
-| [![][rgm-badge]][rgm-repo]   | ![][rgm-stars]  | ![][rgm-dl]  |
-| [![][rslc-badge]][rslc-repo] | ![][rslc-stars] | ![][rslc-dl] |
-| [![][rst-badge]][rst-repo]   | ![][rst-stars]  | ![][rst-dl]  |
-| [![][rsdc-badge]][rsdc-repo] | ![][rsdc-stars] | ![][rsdc-dl] |
-| [![][rsbc-badge]][rsbc-repo] | ![][rsbc-stars] | ![][rsbc-dl] |
-| [![][rsh-badge]][rsh-repo]   | ![][rsh-stars]  | ![][rsh-dl]  |
+### npm packages
+
+| Repository                   | Stars           | Downloads                |
+| ---------------------------- | --------------- | ------------------------ |
+| [![][gsgd-badge]][gsgd-repo] | ![][gsgd-stars] | [![][gsgd-dl]][gsgd-npm] |
+| [![][gss-badge]][gss-repo]   | ![][gss-stars]  | [![][gss-dl]][gss-npm]   |
+| [![][rrm-badge]][rrm-repo]   | ![][rrm-stars]  | [![][rrm-dl]][rrm-npm]   |
+| [![][rgps-badge]][rgps-repo] | ![][rgps-stars] | [![][rgps-dl]][rgps-npm] |
+| [![][rsp-badge]][rsp-repo]   | ![][rsp-stars]  | [![][rsp-dl]][rsp-npm]   |
+| [![][rgml-badge]][rgml-repo] | ![][rgml-stars] | [![][rgml-dl]][rgml-npm] |
+| [![][rgm-badge]][rgm-repo]   | ![][rgm-stars]  | [![][rgm-dl]][rgm-npm]   |
+| [![][rslc-badge]][rslc-repo] | ![][rslc-stars] | [![][rslc-dl]][rslc-npm] |
+| [![][rst-badge]][rst-repo]   | ![][rst-stars]  | [![][rst-dl]][rst-npm]   |
+
+### Other projects
+
+| Repository                 | Stars          |
+| -------------------------- | -------------- |
+| [![][wmb-badge]][wmb-repo] | ![][wmb-stars] |
+| [![][pcc-badge]][pcc-repo] | ![][pcc-stars] |
+| [![][sdc-badge]][sdc-repo] | ![][sdc-stars] |
+
+...and much more on [my GitHub repositories](https://github.com/cedricdelpoux?tab=repositories&type=source).
 
 ## Places you can reach me
 
@@ -76,88 +73,39 @@ My packages are free and maintained in my free time. If they are useful to you, 
 [![](https://img.shields.io/badge/-Youtube-FC0D1B.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuyZxPyDBbPYeGneo_7jY4g)
 [![](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:cedric.delpoux@gmail.com)
 
-<!-- cedricdelpoux.fr -->
-
-[cd-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=cedricdelpoux.fr&color=000605&logo=github&logoColor=white&labelColor=000605
-[cd-repo]: https://github.com/cedricdelpoux/cedricdelpoux.fr
-[cd-stars]: https://img.shields.io/github/stars/cedricdelpoux/cedricdelpoux.fr?style=flat-square&labelColor=343b41&label=Stars
-
 <!-- google-docs-sync -->
 
 [gsgd-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=google-docs-sync&color=000605&logo=github&logoColor=white&labelColor=000605
 [gsgd-repo]: https://github.com/cedricdelpoux/google-docs-sync
 [gsgd-stars]: https://img.shields.io/github/stars/cedricdelpoux/google-docs-sync?style=flat-square&labelColor=343b41&label=Stars
 [gsgd-dl]: https://img.shields.io/npm/dt/gatsby-source-google-docs.svg?style=flat-square&label=Downloads
+[gsgd-npm]: https://www.npmjs.com/package/gatsby-source-google-docs
 
-<!-- gatsby-source-strava -->
+<!-- strava-sync -->
 
-[gss-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-source-strava&color=000605&logo=github&logoColor=white&labelColor=000605
-[gss-repo]: https://github.com/cedricdelpoux/gatsby-source-strava
-[gss-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-source-strava?style=flat-square&labelColor=343b41&label=Stars
+[gss-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=strava-sync&color=000605&logo=github&logoColor=white&labelColor=000605
+[gss-repo]: https://github.com/cedricdelpoux/strava-sync
+[gss-stars]: https://img.shields.io/github/stars/cedricdelpoux/strava-sync?style=flat-square&labelColor=343b41&label=Stars
 [gss-dl]: https://img.shields.io/npm/dt/gatsby-source-strava.svg?style=flat-square&label=Downloads
+[gss-npm]: https://www.npmjs.com/package/gatsby-source-strava
 
-<!-- gatsby-source-youtube -->
+<!-- walkingpad-menu-bar -->
 
-[gsy-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-source-youtube&color=000605&logo=github&logoColor=white&labelColor=000605
-[gsy-repo]: https://github.com/cedricdelpoux/gatsby-source-youtube
-[gsy-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-source-youtube?style=flat-square&labelColor=343b41&label=Stars
-[gsy-dl]: https://img.shields.io/npm/dt/gatsby-source-youtube.svg?style=flat-square&label=Downloads
+[wmb-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=walkingpad-menu-bar&color=000605&logo=github&logoColor=white&labelColor=000605
+[wmb-repo]: https://github.com/cedricdelpoux/walkingpad-menu-bar
+[wmb-stars]: https://img.shields.io/github/stars/cedricdelpoux/walkingpad-menu-bar?style=flat-square&labelColor=343b41&label=Stars
 
-<!-- gatsby-source-google-photos -->
+<!-- pocketcasts-cleanup -->
 
-[gsgp-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-source-google-photos&color=000605&logo=github&logoColor=white&labelColor=000605
-[gsgp-repo]: https://github.com/cedricdelpoux/gatsby-source-google-photos
-[gsgp-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-source-google-photos?style=flat-square&labelColor=343b41&label=Stars
-[gsgp-dl]: https://img.shields.io/npm/dt/gatsby-source-google-photos.svg?style=flat-square&label=Downloads
+[pcc-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=pocketcasts-cleanup&color=000605&logo=github&logoColor=white&labelColor=000605
+[pcc-repo]: https://github.com/cedricdelpoux/pocketcasts-cleanup
+[pcc-stars]: https://img.shields.io/github/stars/cedricdelpoux/pocketcasts-cleanup?style=flat-square&labelColor=343b41&label=Stars
 
-<!-- gatsby-source-google-mymaps -->
+<!-- steam-deck-colorful -->
 
-[gsgm-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-source-google-mymaps&color=000605&logo=github&logoColor=white&labelColor=000605
-[gsgm-repo]: https://github.com/cedricdelpoux/gatsby-source-google-mymaps
-[gsgm-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-source-google-mymaps?style=flat-square&labelColor=343b41&label=Stars
-[gsgm-dl]: https://img.shields.io/npm/dt/gatsby-source-google-mymaps.svg?style=flat-square&label=Downloads
-
-<!-- gatsby-remark-gifs -->
-
-[grg-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-remark-gifs&color=000605&logo=github&logoColor=white&labelColor=000605
-[grg-repo]: https://github.com/cedricdelpoux/gatsby-remark-gifs
-[grg-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-remark-gifs?style=flat-square&labelColor=343b41&label=Stars
-[grg-dl]: https://img.shields.io/npm/dt/gatsby-remark-gifs.svg?style=flat-square&label=Downloads
-
-<!-- gatsby-remark-replace -->
-
-[grr-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-remark-replace&color=000605&logo=github&logoColor=white&labelColor=000605
-[grr-repo]: https://github.com/cedricdelpoux/gatsby-remark-replace
-[grr-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-remark-replace?style=flat-square&labelColor=343b41&label=Stars
-[grr-dl]: https://img.shields.io/npm/dt/gatsby-remark-replace.svg?style=flat-square&label=Downloads
-
-<!-- gatsby-remark-strava -->
-
-[grs-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-remark-strava&color=000605&logo=github&logoColor=white&labelColor=000605
-[grs-repo]: https://github.com/cedricdelpoux/gatsby-remark-strava
-[grs-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-remark-strava?style=flat-square&labelColor=343b41&label=Stars
-[grs-dl]: https://img.shields.io/npm/dt/gatsby-remark-strava.svg?style=flat-square&label=Downloads
-
-<!-- gatsby-remark-youtube -->
-
-[gry-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-remark-youtube&color=000605&logo=github&logoColor=white&labelColor=000605
-[gry-repo]: https://github.com/cedricdelpoux/gatsby-remark-youtube
-[gry-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-remark-youtube?style=flat-square&labelColor=343b41&label=Stars
-[gry-dl]: https://img.shields.io/npm/dt/gatsby-remark-youtube.svg?style=flat-square&label=Downloads
-
-<!-- gatsby-remark-images-grid -->
-
-[grig-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-remark-images-grid&color=000605&logo=github&logoColor=white&labelColor=000605
-[grig-repo]: https://github.com/cedricdelpoux/gatsby-remark-images-grid
-[grig-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-remark-images-grid?style=flat-square&labelColor=343b41&label=Stars
-[grig-dl]: https://img.shields.io/npm/dt/gatsby-remark-images-grid.svg?style=flat-square&label=Downloads
-
-<!-- gatsby-remark-unwrap-images -->
-
-[grui-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=gatsby-remark-unwrap-images&color=000605&logo=github&logoColor=white&labelColor=000605
-[grui-repo]: https://github.com/cedricdelpoux/gatsby-remark-unwrap-images
-[grui-stars]: https://img.shields.io/github/stars/cedricdelpoux/gatsby-remark-unwrap-images?style=flat-square&labelColor=343b41&label=Stars
-[grui-dl]: https://img.shields.io/npm/dt/gatsby-remark-unwrap-images.svg?style=flat-square&label=Downloads
+[sdc-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=steam-deck-colorful&color=000605&logo=github&logoColor=white&labelColor=000605
+[sdc-repo]: https://github.com/cedricdelpoux/steam-deck-colorful
+[sdc-stars]: https://img.shields.io/github/stars/cedricdelpoux/steam-deck-colorful?style=flat-square&labelColor=343b41&label=Stars
 
 <!-- react-responsive-masonry -->
 
@@ -165,6 +113,7 @@ My packages are free and maintained in my free time. If they are useful to you, 
 [rrm-repo]: https://github.com/cedricdelpoux/react-responsive-masonry
 [rrm-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-responsive-masonry?style=flat-square&labelColor=343b41&label=Stars
 [rrm-dl]: https://img.shields.io/npm/dt/react-responsive-masonry.svg?style=flat-square&label=Downloads
+[rrm-npm]: https://www.npmjs.com/package/react-responsive-masonry
 
 <!-- react-google-places-suggest -->
 
@@ -172,6 +121,7 @@ My packages are free and maintained in my free time. If they are useful to you, 
 [rgps-repo]: https://github.com/cedricdelpoux/react-google-places-suggest
 [rgps-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-google-places-suggest?style=flat-square&labelColor=343b41&label=Stars
 [rgps-dl]: https://img.shields.io/npm/dt/react-google-places-suggest.svg?style=flat-square&label=Downloads
+[rgps-npm]: https://www.npmjs.com/package/react-google-places-suggest
 
 <!-- react-svg-piechart -->
 
@@ -179,6 +129,7 @@ My packages are free and maintained in my free time. If they are useful to you, 
 [rsp-repo]: https://github.com/cedricdelpoux/react-svg-piechart
 [rsp-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-svg-piechart?style=flat-square&labelColor=343b41&label=Stars
 [rsp-dl]: https://img.shields.io/npm/dt/react-svg-piechart.svg?style=flat-square&label=Downloads
+[rsp-npm]: https://www.npmjs.com/package/react-svg-piechart
 
 <!-- react-google-maps-loader -->
 
@@ -186,6 +137,7 @@ My packages are free and maintained in my free time. If they are useful to you, 
 [rgml-repo]: https://github.com/cedricdelpoux/react-google-maps-loader
 [rgml-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-google-maps-loader?style=flat-square&labelColor=343b41&label=Stars
 [rgml-dl]: https://img.shields.io/npm/dt/react-google-maps-loader.svg?style=flat-square&label=Downloads
+[rgml-npm]: https://www.npmjs.com/package/react-google-maps-loader
 
 <!-- react-google-map -->
 
@@ -193,6 +145,7 @@ My packages are free and maintained in my free time. If they are useful to you, 
 [rgm-repo]: https://github.com/cedricdelpoux/react-google-map
 [rgm-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-google-map?style=flat-square&labelColor=343b41&label=Stars
 [rgm-dl]: https://img.shields.io/npm/dt/react-google-map.svg?style=flat-square&label=Downloads
+[rgm-npm]: https://www.npmjs.com/package/react-google-map
 
 <!-- react-svg-line-chart -->
 
@@ -200,6 +153,7 @@ My packages are free and maintained in my free time. If they are useful to you, 
 [rslc-repo]: https://github.com/cedricdelpoux/react-svg-line-chart
 [rslc-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-svg-line-chart?style=flat-square&labelColor=343b41&label=Stars
 [rslc-dl]: https://img.shields.io/npm/dt/react-svg-line-chart.svg?style=flat-square&label=Downloads
+[rslc-npm]: https://www.npmjs.com/package/react-svg-line-chart
 
 <!-- react-simple-tooltip -->
 
@@ -207,24 +161,4 @@ My packages are free and maintained in my free time. If they are useful to you, 
 [rst-repo]: https://github.com/cedricdelpoux/react-simple-tooltip
 [rst-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-simple-tooltip?style=flat-square&labelColor=343b41&label=Stars
 [rst-dl]: https://img.shields.io/npm/dt/react-simple-tooltip.svg?style=flat-square&label=Downloads
-
-<!-- react-svg-donut-chart -->
-
-[rsdc-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=react-svg-donut-chart&color=000605&logo=github&logoColor=white&labelColor=000605
-[rsdc-repo]: https://github.com/cedricdelpoux/react-svg-donut-chart
-[rsdc-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-svg-donut-chart?style=flat-square&labelColor=343b41&label=Stars
-[rsdc-dl]: https://img.shields.io/npm/dt/react-svg-donut-chart.svg?style=flat-square&label=Downloads
-
-<!-- react-svg-bar-chart -->
-
-[rsbc-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=react-svg-bar-chart&color=000605&logo=github&logoColor=white&labelColor=000605
-[rsbc-repo]: https://github.com/cedricdelpoux/react-svg-bar-chart
-[rsbc-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-svg-bar-chart?style=flat-square&labelColor=343b41&label=Stars
-[rsbc-dl]: https://img.shields.io/npm/dt/react-svg-bar-chart.svg?style=flat-square&label=Downloads
-
-<!-- react-svg-hexagons -->
-
-[rsh-badge]: https://img.shields.io/static/v1?style=flat-square&label=%20&message=react-svg-hexagons&color=000605&logo=github&logoColor=white&labelColor=000605
-[rsh-repo]: https://github.com/cedricdelpoux/react-svg-hexagons
-[rsh-stars]: https://img.shields.io/github/stars/cedricdelpoux/react-svg-hexagons?style=flat-square&labelColor=343b41&label=Stars
-[rsh-dl]: https://img.shields.io/npm/dt/react-svg-hexagon.svg?style=flat-square&label=Downloads
+[rst-npm]: https://www.npmjs.com/package/react-simple-tooltip
